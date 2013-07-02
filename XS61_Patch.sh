@@ -1,6 +1,5 @@
 ## Xenserver 6.1 Patch Script
 ## By Julian Valbuena
-## Ninefold.com
 ## Installs XenServer Patches for you
 ## 
 ## 
